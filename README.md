@@ -1,6 +1,6 @@
 # Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding
 
-The main kirigami sheet A is **KiriFilm_1_Rib1_Film1.5.SLDPRT**.
+The main kirigami sheet is **KirigamiMesh.SLDPRT**.
 
 There are prt, assem, and step files in the Kiri Assembly Folder.
 

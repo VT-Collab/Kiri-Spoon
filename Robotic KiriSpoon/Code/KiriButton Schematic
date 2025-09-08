@@ -1,0 +1,13 @@
+
+
+This schematic corresponds to the Kiributton.ino code. The circuit is intended to connect the servo to the Arduino while being powered by an external power source. The push button is part of the circuit as an option to actuate the Kirispoon end effector. 
+Circuit Notes:
+- The black, red, and yellow wires of the example servo correspond to the black, red, and white 
+  wires on the Bilda servo. 
+    - black and red wires for power
+    - white wire for control
+- Each resistor shown on the circuit is 10k ohms
+- If an LED needs to be attached, connect the longer end to an arduino pin or a power source. 
+  Connect the shorter end to ground through a 220 ohm resistor
+- the black push button and power adapter is not the exact one in the lab. They are there to 
+  represent where the button and adaptor would go

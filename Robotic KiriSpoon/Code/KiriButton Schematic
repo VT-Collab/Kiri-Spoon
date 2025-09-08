@@ -1,4 +1,4 @@
-![KiriButtonSchematic](https://github.com/VT-Collab/Kiri-Spoon/blob/Robotic-Kirispoon-Circuit/Robotic%20KiriSpoon/Code/images/Screenshot%202025-09-08%20103628.png)
+![KiriButtonSchematic](Screenshot 2025-09-08 103628.png)
 
 This schematic corresponds to the Kiributton.ino code. The circuit is intended to connect the servo to the Arduino while being powered by an external power source. The push button is part of the circuit as an option to actuate the Kirispoon end effector. 
 Circuit Notes:
